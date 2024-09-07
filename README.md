@@ -1,2 +1,2 @@
 # MyShello
-linux-shell project
+linux-custom_shell project
